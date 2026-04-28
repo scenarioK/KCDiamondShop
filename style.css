@@ -1,10 +1,10 @@
 body {
   background-color: var(--tg-theme-bg-color);
-  text-color: var(--tg-theme-text-color);
+  color: var(--tg-theme-text-color);
 }
 
 .primaryBtn{
   background-color: var(--tg-theme-button-color);
-  text-color: var(--tg-theme-button-text-color);
+  color: var(--tg-theme-button-text-color);
 }
 
