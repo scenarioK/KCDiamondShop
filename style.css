@@ -3,3 +3,8 @@ body {
   text-color: var(--tg-theme-text-color);
 }
 
+.primaryBtn{
+  background-color: var(--tg-theme-button-color);
+  text-color: var(--tg-theme-button-text-color);
+}
+
